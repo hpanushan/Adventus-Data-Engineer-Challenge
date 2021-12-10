@@ -2,7 +2,6 @@
     "dataset_name" : "adventus",
     "table_name" : "customers",
     "project_id" : "adventus-challenge",
-    "gcp_service_account_file_path" : "D:/Work/Adventus-Data-Engineer-Challenge/keys/adventus-challenge-737eb566ceb0.json",
     "data_file_1_path" : "D:/Work/Adventus-Data-Engineer-Challenge/data/customers_1.json",
     "data_file_2_path" : "D:/Work/Adventus-Data-Engineer-Challenge/data/customers_2.json",
     "data_file_3_path" : "D:/Work/Adventus-Data-Engineer-Challenge/data/customers_3.json"
